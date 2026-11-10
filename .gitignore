@@ -1,0 +1,13 @@
+# Data and image caches (built by notebook 01; dataset images keep their own licenses)
+cache/
+
+# Predictions and checkpoints
+resultados/*
+!resultados/.gitkeep
+*.pth
+*.pt
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*:Zone.Identifier

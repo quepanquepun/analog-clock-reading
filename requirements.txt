@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+ultralytics
+datasets
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+jupyter
